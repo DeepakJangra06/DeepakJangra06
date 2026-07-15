@@ -44,3 +44,7 @@ I enjoy solving coding problems and building real-world projects.
 ![](https://github-readme-stats.vercel.app/api?username=DeepakJangra06&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakJangra06&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=DeepakJangra06&theme=tokyonight)
