@@ -39,26 +39,13 @@
 ⚡ Fun Fact:
 I enjoy solving coding problems and building real-world projects.
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakJangra06&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakJangra06&layout=compact&theme=tokyonight" />
-</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DeepakJangra06&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakJangra06&theme=onedark&margin-w=15&margin-h=15" />
-</p>
 
 ## 📈 Contribution Graph
 
