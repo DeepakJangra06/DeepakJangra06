@@ -48,17 +48,21 @@ I enjoy solving coding problems and building real-world projects.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakJangra06&layout=compact&theme=tokyonight" />
 </p>
-
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=DeepakJangra06&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeepakJangra06&theme=tokyonight" />
+</p>
 
 ## 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=DeepakJangra06&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepakJangra06&theme=onedark&margin-w=15&margin-h=15" />
+</p>
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=DeepakJangra06&theme=tokyo-night)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakJangra06&theme=tokyo-night" />
+</p>
 Update Profile README
