@@ -52,4 +52,3 @@ I enjoy solving coding problems and building real-world projects.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakJangra06&theme=tokyo-night" />
 </p>
-Update Profile README
