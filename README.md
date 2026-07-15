@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Deepak Jangra
 
-<!--
-**DeepakJangra06/DeepakJangra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- DSA
+- Java
+- Spring Boot
+- React
+- DevOps
+
+📫 Reach me:
+- LinkedIn
+- Email
+
+⚡ Fun Fact:
+I enjoy solving coding problems and building real-world projects.
