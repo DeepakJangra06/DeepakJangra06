@@ -48,3 +48,13 @@ I enjoy solving coding problems and building real-world projects.
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=DeepakJangra06&theme=tokyonight)
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=DeepakJangra06&theme=onedark)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=DeepakJangra06&theme=tokyo-night)
+
+Update Profile README
