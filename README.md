@@ -7,12 +7,11 @@
 🌱 Currently Learning
 - DSA
 - Java
-- Spring Boot
 - React
 - DevOps
 
 📫 Reach me:
-- LinkedIn
+- LinkedIn 
 - Email
 
 ⚡ Fun Fact:
